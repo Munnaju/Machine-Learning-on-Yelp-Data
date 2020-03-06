@@ -26,11 +26,14 @@ Template code is provided in the yelp_clustering.ipynb notebook file. The datset
 
 In a terminal or command window, navigate to the top-level project directory Machine-Learning-on-Yelp-Data/ (that contains this README) and run one of the following commands:
 
+```
 ipython notebook yelp_clustering.ipynb
+```
 
 Or
-
+```
 jupyter notebook yelp_clustering.ipynb
+```
 
 # Data
 
