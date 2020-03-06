@@ -39,5 +39,8 @@ jupyter notebook yelp_clustering.ipynb
 
 The dataset is provided by <a href="https://www.yelp.com/dataset/challenge">Yelp</a>, and have different types of dataset in the repository. For our problem, we have used the user.json data from the dataset. The dataset has initially 22 columns, and have over 2 million data points, for the simplicity, I took only the 1 million data from the user.json file.
 
+# Version
+Version 1.0.1
+
 
 
